@@ -1,4 +1,3 @@
-Code-Together
 Code-Together is a web application designed to provide a collaborative coding platform where multiple friends can come together in a single room to share the same editor. Built using HTML, CSS, JavaScript, React, and WebSocket, Code-Together enables real-time collaboration in the following ways:
 
 Features
